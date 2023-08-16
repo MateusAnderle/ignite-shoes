@@ -13,8 +13,7 @@ The **_IgniteShoes_** project is part of a bootcamp conducted by RocketSeat to e
 ---
 
 <div align="center" >
-<img src="/assets/images/homescreen.gif" width="300">
-#####GIF-HERE#####
+<img src="https://github.com/MateusAnderle/ignite-shoes/assets/100309091/2c1d292b-cba8-4887-8f3e-8a032f9207b5" width="300">
 </div>
 
 ---
