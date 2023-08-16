@@ -4,9 +4,9 @@ The **_IgniteShoes_** project is part of a bootcamp conducted by RocketSeat to e
 
 <h2 align="center">Ignite Shoes App</h2>
 <h3 align="center">
-  <a href="#about">About</a>&nbsp;|&nbsp;
+  <a href="#information_source-about">About</a>&nbsp;|&nbsp;
   <a href="#minimum-requirements">Requirements</a>&nbsp;|&nbsp;
-  <a href="#rocket-technologies-used">Technologies</a>&nbsp;|&nbsp;
+  <a href="#technologies-used">Technologies</a>&nbsp;|&nbsp;
   <a href="#package-how-to-download-and-run-the-project">Download and Run</a>&nbsp;
 </h3>
 
