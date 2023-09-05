@@ -13,7 +13,7 @@ The **_IgniteShoes_** project is part of a bootcamp conducted by RocketSeat to e
 ---
 
 <div align="center" >
-<img src="https://github.com/MateusAnderle/ignite-shoes/assets/100309091/2c1d292b-cba8-4887-8f3e-8a032f9207b5" width="300">
+<img src="https://github.com/MateusAnderle/ignite-shoes/assets/100309091/47f7b29d-7e09-4c2d-ae77-a7a6376b032a" width="300">
 </div>
 
 ---
